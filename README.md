@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @smsllhuda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-smsllhuda/smsllhuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# TugasModul3
+Tugas modul 3 praktikum
+# DocumentationPractice 
+This is a simple project to practice creating documentation in a README file.
+# Usage
+1. Clone the repository to your local machine.
+2. Open the project in your favorite IDE.
+3. Run the program to see the output.
+# Despendencies
+- None
+# License
+This project is licensed under the MIT license - see the [licence](LICENSE) file for details.
