@@ -1,7 +1,7 @@
 # kalkulator sederhana
 Tugas modul 3 praktikum
-# DocumentationPractice 
-This is a simple project to practice creating documentation in a README file.
+# DESKRIPSI
+Proyek ini adalah contoh sederhana dalam membuat kalkulator sederhana. Ini mencakup kode sumber Java dan berfungsi sebagai demonstrasi penggunaan Git dan GitHub untuk mengelola kode sumber proyek. Proyek ini juga dilengkapi dengan README ini untuk memberikan panduan dasar tentang penggunaan proyek.
 # Usage
 1. Clone the repository to your local machine.
 2. Open the project in your favorite IDE.
